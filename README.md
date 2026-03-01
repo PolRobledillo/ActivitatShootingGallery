@@ -41,3 +41,9 @@ La diana puede configurarse entre los siguientes dos modos:
 - Puedes **resetear la puntuación** en cualquier momento presionando el botón de **Reset**.
 
 ---
+
+## Objetivos
+
+Mi objetivo con esta practica has sido explorar las posibilidades que la realidad virtual ofrece con Unity para crear una experiencia de entretenimiento.
+
+---
